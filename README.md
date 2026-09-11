@@ -15,11 +15,11 @@ interfaces, secrets, and observability. It requests compute from Commons Compute
 capabilities from Commons AI Fabric through versioned contracts. Publishing is delegated to
 Commons Social Fabric; Media Fabric remains usable when federation is unavailable.
 
-- [Consolidated ecosystem architecture](../fpsdc-architecture/docs/architecture/Consolidated-Ecosystem-Architecture.md)
-- [Dependency contract](../fpsdc-architecture/docs/architecture/Ecosystem-Dependency-Contract.md)
-- [Cross-pollination model](../fpsdc-architecture/docs/architecture/Cross-Pollination-and-Shared-Capabilities.md)
-- [Open-source reference stack](../fpsdc-architecture/docs/vision/12-Open-Source-Reference-Stack.md)
-- [Commons architecture](../fpsdc-architecture/docs/vision/constitutional/Post-Secondary-Digital-Commons-Architecture.md)
+- [Consolidated ecosystem architecture](../psdc-architecture/docs/architecture/Consolidated-Ecosystem-Architecture.md)
+- [Dependency contract](../psdc-architecture/docs/architecture/Ecosystem-Dependency-Contract.md)
+- [Cross-pollination model](../psdc-architecture/docs/architecture/Cross-Pollination-and-Shared-Capabilities.md)
+- [Open-source reference stack](../psdc-architecture/docs/vision/12-Open-Source-Reference-Stack.md)
+- [Commons architecture](../psdc-architecture/docs/vision/constitutional/Post-Secondary-Digital-Commons-Architecture.md)
 
 ## Layout
 
